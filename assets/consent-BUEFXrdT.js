@@ -1,0 +1,1 @@
+const e="nail-scan-v1-2026-05-22",o=[{key:"age_13_plus",label:"I am 13 years of age or older."},{key:"photos_for_fit",label:"I agree to my photos being stored and used to fit my custom nails."},{key:"photos_for_training",label:"I agree my photos may be used to improve MissBatti's nail-scanning models in the future."}];export{o as C,e as a};

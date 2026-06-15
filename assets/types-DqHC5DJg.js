@@ -1,0 +1,1 @@
+const n=["l_thumb","l_index","l_middle","l_ring","l_pinky","r_thumb","r_index","r_middle","r_ring","r_pinky"],e=s=>typeof s=="string"&&n.includes(s),i=["top","side"],t=s=>typeof s=="string"&&i.includes(s),_=i.length,l=n.length;export{l as F,i as P,_ as a,n as b,t as c,e as i};

@@ -1,0 +1,1 @@
+const o=/Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini|Mobile Safari/i;function r(){if(typeof window>"u")return!1;const e=window.navigator.userAgent??"";if(!o.test(e))return!1;const i=window.matchMedia?.("(pointer: coarse)").matches??!0,n=window.innerWidth<=900;return i&&n}export{r as i};
