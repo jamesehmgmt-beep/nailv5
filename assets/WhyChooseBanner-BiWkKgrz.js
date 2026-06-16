@@ -1,0 +1,1 @@
+import{j as s}from"./ui-Chy_q55b.js";import"./vendor-Bwx3bxZD.js";const e="/nailv5/assets/why-choose-BqNjSQ2F.webp",a=()=>s.jsx("section",{className:"relative w-full overflow-hidden aspect-[21/9]",children:s.jsx("img",{src:e,alt:"Why Choose Miss Batti",className:"absolute inset-0 w-full h-full object-cover",loading:"lazy",decoding:"async"})});export{a as WhyChooseBanner};

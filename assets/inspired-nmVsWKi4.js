@@ -1,1 +1,0 @@
-const s="/Program%20Files/Git/nailv5/assets/bestseller-D3Jb6W9c.webp",e="/Program%20Files/Git/nailv5/assets/french-DohNjs4o.webp",a="/Program%20Files/Git/nailv5/assets/new-EshjyM1z.webp",i="/Program%20Files/Git/nailv5/assets/inspired-jp1j2l_F.webp";export{s as b,e as f,i,a as n};
