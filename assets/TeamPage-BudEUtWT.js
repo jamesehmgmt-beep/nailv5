@@ -1,6 +1,0 @@
-import{j as e}from"./ui-Chy_q55b.js";import{c as s,H as a}from"./index-DlkwAyoA.js";import{F as t}from"./Footer-CcS1RKWd.js";import"./vendor-Bwx3bxZD.js";/**
- * @license lucide-react v0.462.0 - ISC
- *
- * This source code is licensed under the ISC license.
- * See the LICENSE file in the root directory of this source tree.
- */const r=s("Users",[["path",{d:"M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2",key:"1yyitq"}],["circle",{cx:"9",cy:"7",r:"4",key:"nufk8"}],["path",{d:"M22 21v-2a4 4 0 0 0-3-3.87",key:"kshegd"}],["path",{d:"M16 3.13a4 4 0 0 1 0 7.75",key:"1da9ce"}]]),d=()=>e.jsxs("div",{className:"min-h-screen bg-background",children:[e.jsx(a,{}),e.jsx("div",{className:"pt-24 pb-16",children:e.jsxs("div",{className:"max-w-3xl mx-auto px-4",children:[e.jsxs("div",{className:"text-center mb-12",children:[e.jsx(r,{className:"w-12 h-12 mx-auto mb-4 text-foreground"}),e.jsx("h1",{className:"text-3xl font-serif mb-4",children:"Our Team"}),e.jsx("p",{className:"text-muted-foreground",children:"Meet the people behind MissBatti."})]}),e.jsx("div",{className:"text-center py-12",children:e.jsx("p",{className:"text-muted-foreground",children:"Our passionate team of designers and nail artists work together to create stunning press-on nails. We're united by our mission to make luxury nail art accessible to everyone."})})]})}),e.jsx(t,{})]});export{d as default};
